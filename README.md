@@ -5,7 +5,7 @@
 
 
 
-# startinga repository
+# starting a repository
 
 ```
 echo # eplan > README.md
