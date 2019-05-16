@@ -3,6 +3,7 @@ RewriteEngine Off
 RewriteEngine On
 RewriteEngine Off
 # or other rules... bah
+# booh
 </IfModule>
 
 # Disable directory browsing 
